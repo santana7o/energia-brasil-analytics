@@ -1,6 +1,9 @@
 # Energia no Brasil — o que faz o preço da energia subir?
 
 Projeto de engenharia e análise de dados com **dados abertos do ONS** (Operador Nacional do Sistema Elétrico), de jan/2020 até hoje.
+
+Parte do meu portfólio: [santana7o.github.io](https://santana7o.github.io)
+
 Pergunta de negócio: **quanto a chuva, os reservatórios e o crescimento da energia solar explicam o custo da energia no Brasil?**
 
 Essa é a pergunta que comercializadoras de energia, indústrias eletrointensivas e consultorias do setor fazem todo mês para decidir quando comprar energia, quando travar contratos e quando se proteger de picos de preço.
