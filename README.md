@@ -1,4 +1,4 @@
-# Energia no Brasil — o que faz o preço da energia subir?
+# Energia no Brasil: o que faz o preço da energia subir?
 
 Projeto de engenharia e análise de dados com **dados abertos do ONS** (Operador Nacional do Sistema Elétrico), de jan/2020 até hoje.
 
@@ -185,4 +185,6 @@ Python · pandas · Google Colab · DuckDB · dbt · SQL · DBeaver · VS Code �
 
 ---
 
-**Autor:** Felipe Gabriel Coelho de Santana · Dados: ONS (dados abertos, [dados.ons.org.br](https://dados.ons.org.br))
+Felipe Gabriel Coelho de Santana, Analista de Dados. [LinkedIn](https://www.linkedin.com/in/felipe-gabriel-coelho-de-santana-a33b49304) · [GitHub](https://github.com/santana7o)
+
+Dados: ONS (dados abertos, [dados.ons.org.br](https://dados.ons.org.br))
